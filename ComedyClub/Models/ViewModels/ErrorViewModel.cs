@@ -1,6 +1,6 @@
 using System;
 
-namespace ComedyClub.Models
+namespace ComedyClub.Models.ViewModels
 {
     public class ErrorViewModel
     {
